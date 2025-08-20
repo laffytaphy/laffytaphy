@@ -3,7 +3,6 @@
 
  <img src="https://i.pinimg.com/736x/11/56/f1/1156f17d4262ef9c18b28e3fdf255077.jpg" width="350"/>
 
-• . ݁₊ ⊹ . ݁·✦· ݁ . ⊹ ₊ ݁. •
 <p align="center">
   <img src=https://komarev.com/ghpvc/?username=taphy&color=ff69b4&style=plastic&label=tripmines
 </p>
